@@ -32,5 +32,15 @@ Moving forward, commands in Yantra Launcher are nothing but Kotlin functions. Se
 - To improve an existing command that's not found in the [commands](/commands) directory, open an issue and we will discuss it there if I can provide the code for the existing command.  💻🔧
 
 
-## What will I get?
-Satisfaction. Although I can't remunerate you for your contribution, you will get recognition if your contribution is used in the Yantra Launcher. There are a couple of perks that are yet to be listed, but please do not spam for getting a Contributor Tag. Such requests will be rejected as they defy the purpose of this repository. Contribute only if you feel so, not for any perks.
+## What will I get? 🌟
+***Satisfaction!*** Although I can't remunerate you for your contribution, you will get recognition if your contribution is used in the Yantra Launcher. There are a couple of perks that are yet to be listed, but please do not spam for getting a Contributor Tag. Such requests will be rejected as they defy the purpose of this repository. Contribute only if you feel so, not for any perks. 🙏
+
+
+## FAQs ❓
+1. **💰 Why are there some paid plugins in Yantra Launcher?**
+
+    It takes an immense amount of time, energy, and effort other than the monetary costs of developing and maintaining the application. Although the app is freely available on the Play Store, I have added some paid plugins that are not required but are there just to enhance the experience a little bit. When you buy these plugins, ***you help me cover some of the costs that I bear for the application, apart from getting the associated motivation.*** Plus, I don't want to include ads in the app like other similar apps do, as it defies the purpose of a minimal distraction-free Home Screen.
+
+2. **📂 Why don't you open-source the application entirely?**
+
+    I understand that it would be more intuitive to contribute if the application was completely open-source but as I said above, It takes an immense amount of time, energy, and effort other than the monetary costs of developing and maintaining the application. If I open-source it, not everyone is good enough to uphold their moral values and responsibilities. ***Some random dude, trying to look nerdy will fork it, remove all paywalls, and release it on the store.*** And due to the nature of open-source, I can't, and even don't have the time to, deny him/her. _I hope you understand!_ 🤝
