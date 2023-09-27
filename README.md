@@ -1,5 +1,5 @@
 # YantraLauncher-Yogdan
-This repository is for contributing code to be used in the Closed-Source Yantra Launcher for increasing Developement Speed, testing pre-release builds, and finding bugs faster. 🐛🚀
+This repository is for contributing code to be used in the Closed-Source Yantra Launcher for increasing Development Speed, testing pre-release builds, and finding bugs faster. 🐛🚀
 
 ## Why this name 🤔
 You Probably already know the reason behind the name of Yantra Launcher. Yeah right, **Yantra**_(yan·truh)_ means Device and so this Launcher is basically a minimal Launcher for your device. 📱
@@ -30,3 +30,7 @@ Moving forward, commands in Yantra Launcher are nothing but Kotlin functions. Se
 - To improve an existing command that's available in the [commands](/commands) directory, simply open a pull request. 🛠️🔄
 
 - To improve an existing command that's not found in the [commands](/commands) directory, open an issue and we will discuss it there if I can provide the code for the existing command.  💻🔧
+
+
+## What will I get?
+Satisfaction. Although I can't remunerate you for your contribution, you will get recognition if your contribution is used in the Yantra Launcher. There are a couple of perks that are yet to be listed, but please do not spam for getting a Contributor Tag. Such requests will be rejected as they defy the purpose of this repository. Contribute only if you feel so, not for any perks.
