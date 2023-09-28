@@ -16,18 +16,26 @@ But this has also led to a slightly increased load on me as a solo Developer, ju
 ## How to contribute? 🤝
 Thank you once again for deciding to contribute to the app. I am really grateful to you all! 🙏❤️
 
-Before we start, let's understand _how Yantra Launcher works..._
+Open a terminal and Clone the repository using:
 
-Each command you enter into the terminal is directly passed to a Command Handling function. This function is shown in [CommandHandling.kt file](CommandHandling.kt).
-Every time something is printed to the terminal output, Yantra Launcher uses a custom `printToConsole` function as shown in [Output.kt file](Output.kt).
+```git clone https://github.com/coderGtm/YantraLauncher-Yogdan.git```
 
-**Refer to the above 2 files before moving forward so you get an idea of how to use them in your functions.**
+**It is recommended to have Android Studio for development**
 
-Moving forward, commands in Yantra Launcher are nothing but Kotlin functions. See [sendtext.kt](commands/sendText.kt) for the implementation of the `text` command in Yantra Launcher
+Open the [MainActivity.Kt](app/src/main/java/com/coderGtm/ylTester/MainActivity.kt) file. It features 2 important functions:
+1. `printToConsole`
+2. `cmdHandler`
 
-- Now to contribute a new command from scratch, upload it in the [commands](/commands) directory like the sample command shown in [sendtext.kt](commands/sendText.kt) file.
+As intuitive as it seems, `printToConsole` is used to print output to the terminal.
+On the contrary, `cmdHandler` is the function through which commands entered in the terminal are passed.
 
-- To improve an existing command that's available in the [commands](/commands) directory, simply open a pull request. 🛠️🔄
+Read the file thoroughly and you will understand how commands are handled in Yantra Launcher and how to define your own command.
+
+The Android Project that you just cloned, **YL Tester** is a bare-bone implementation of Yantra Launcher, used for command testing purposes. When you implement your new command, you can test it by running this project.
+
+- Now to contribute a new command from scratch to this repository, once you have tested it on **YL Tester**, upload it in the [commands](/commands) directory like the sample command shown in [sendtext.kt](commands/sendText.kt) file.
+
+- To improve an existing command that's available in the [commands](/commands) directory, simply open a pull request with your modified command. 🛠️🔄
 
 - To improve an existing command that's not found in the [commands](/commands) directory, open an issue and we will discuss it there if I can provide the code for the existing command.  💻🔧
 
