@@ -18,7 +18,9 @@ Thank you once again for deciding to contribute to the app. I am really grateful
 
 Open a terminal and Clone the repository using:
 
-```git clone https://github.com/coderGtm/YantraLauncher-Yogdan.git```
+```
+git clone https://github.com/coderGtm/YantraLauncher-Yogdan.git
+```
 
 **It is recommended to have Android Studio for development**
 
